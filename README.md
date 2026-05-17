@@ -1,45 +1,51 @@
 # WinStake Labs
 
-Solana mainnet validator. Active since September 2022, testnet since October 2021.
+> Solana mainnet validator. Ukrainian-operated. Active since September 2022.
 
-0% base commission, 0% MEV commission since 2024 -- 100% of rewards go to stakers.
+We run bare-metal infrastructure with 0% commission and maintain open-source community tools for the Solana ecosystem.
 
 ---
 
-## Validator
+### Validator
 
 | | |
 |:--|:--|
 | **Vote account** | `mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr` |
 | **Identity** | `2nhGaJvR17TeytzJVajPfABHQcAwinKoCG8F69gRdQot` |
-| **Commission** | 0% base / 0% MEV |
-| **Uptime** | 100% since launch |
+| **Network** | Solana Mainnet-Beta |
+| **Active since** | Testnet Oct 2021 - Mainnet Sep 2022 |
+| **Commission** | 0% base / 0% MEV (since 2024) |
 | **APY** | ~6.02% |
-| **Infrastructure** | Bare-metal, Failover 1+1, Jito BAM, DoubleZero multicast |
-| **Sandwich behavior** | Clean -- [verify on sandwiched.me](https://sandwiched.me/validators/mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr) |
+| **Uptime** | 100% since launch |
+| **MEV** | 100% to stakers via Jito |
+| **Infrastructure** | Bare-metal - Failover 1+1 - Jito BAM - DoubleZero |
+| **Sandwich behavior** | Clean - [verify on sandwiched.me](https://sandwiched.me/validators/mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr) |
 
 ---
 
-## Community contribution
+### Community work
 
-We maintain a curated list of community-built tools for Solana validators and delegators -- dashboards, calculators, monitoring tools, stake pool trackers, node operator utilities, and more.
+We curate **[solana-tools-hub](https://github.com/WinStakeLabs/solana-tools-hub)** - an open list of community-built tools for Solana validators and delegators.
 
-**87 tools across 9 categories, built by validators for validators.**
+87 tools across 9 categories: validator analytics, profit calculators, stake pool dashboards, node operator utilities, delegation programs, and more.
 
-- [solana-tools-hub](https://github.com/WinStakeLabs/solana-tools-hub) -- the GitHub repo
-- [winstakelabs.com/tools.html](https://winstakelabs.com/tools.html) -- browse on the website
+Browse online at **[winstakelabs.com/tools.html](https://winstakelabs.com/tools.html)**
 
----
-
-## Mission
-
-10% of our personal profit goes toward a wild cat rehabilitation center in Zaporizhzhia, Ukraine. The operator owns a serval named Vatra -- that hands-on experience is the foundation of the mission.
-
-[Read more](https://winstakelabs.com/mission-en.html)
+Found a tool that should be listed? [Open an issue](https://github.com/WinStakeLabs/solana-tools-hub/issues).
 
 ---
 
-## Links
+### Mission
+
+10% of personal profit goes toward a wild cat rehabilitation center in Zaporizhzhia, Ukraine.
+
+The operator owns a serval named Vatra. That firsthand experience is the foundation of the mission - not charity, but a concrete plan with land acquisition, enclosure design, and a partnership with a rehabilitation center in Poland.
+
+Read more at [winstakelabs.com/mission-en.html](https://winstakelabs.com/mission-en.html)
+
+---
+
+### Get in touch
 
 | | |
 |:--|:--|
@@ -50,4 +56,11 @@ We maintain a curated list of community-built tools for Solana validators and de
 
 ---
 
-*Ukrainian-operated. Active since 2021. Tools curated, mission real.*
+### Delegate
+
+Use any Solana wallet - Phantom, Solflare, Backpack.
+Search by vote account or find us on [StakeWiz](https://stakewiz.com/validator/mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr).
+
+```
+mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr
+```
