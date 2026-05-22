@@ -18,7 +18,7 @@ We run bare-metal infrastructure with 0% commission and maintain open-source com
 | **APY** | ~6.02% |
 | **Uptime** | 100% since launch |
 | **MEV** | 100% to stakers via Jito |
-| **Infrastructure** | Bare-metal - Failover 1+1 - Jito BAM - DoubleZero |
+| **Infrastructure** | Bare-metal - Failover 1+1 - Jito BAM - DoubleZero multicast - Alpenglow testnet |
 | **Sandwich behavior** | Clean - [verify on sandwiched.me](https://sandwiched.me/validators/mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr) |
 
 ---
