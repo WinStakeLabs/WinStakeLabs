@@ -51,8 +51,8 @@ Read more at [winstakelabs.com/mission-en.html](https://winstakelabs.com/mission
 |:--|:--|
 | Website | [winstakelabs.com](https://winstakelabs.com) |
 | Validator stats | [StakeWiz](https://stakewiz.com/validator/mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr) |
-| Twitter | [@WinSteakLabs](https://x.com/WinSteakLabs) |
-| Email | winsteaklabs@gmail.com |
+| Twitter | [@WinStakeLabs](https://x.com/WinStakeLabs) |
+| Email | winstakelabs@gmail.com |
 
 ---
 
